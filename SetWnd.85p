@@ -1,0 +1,7 @@
+Prompt x,y,scale
+1.18601224709->par
+(x-64/scale)->xMin
+(x+64/scale)->xMax
+(y-32/scale*par)->yMin
+(y+32/scale*par)->yMax
+Return
