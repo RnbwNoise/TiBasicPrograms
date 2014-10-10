@@ -1,6 +1,6 @@
 # SetWnd.85p
 
-Sets graphing window that will have equal physical size of one data unit along both x- and y-axis -- i.e. a window that will not appear stretched or compressed. A window like this is essential for identifying geometric properties of shapes and curves by a taking quick look at the graph. For example, for determining whether two curves are perpendicular, or whether a given shape is a circle or a square.
+Sets graphing window that will have equal physical size of one data unit along both x- and y-axis -- i.e. a window that will not appear stretched or compressed. A window like this is useful for identifying geometric properties (perpendicularity or aspect ratio) of shapes and curves by taking a quick look at the graph.
 
 Input:
 
